@@ -5,7 +5,7 @@ redirect_from:
   - /articles/types-of-collaborative-development-models/
   - /articles/about-collaborative-development-models
 versions:
-  free-pro-team: '*'
+  free-pro-team: '*'Ccbju
   enterprise-server: '*'
   github-ae: '*'
 ---
